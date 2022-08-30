@@ -1,0 +1,28 @@
+.f2{
+
+    width: 350px;
+    height: 110px;
+    border:solid 3px black;
+
+    
+}
+
+.box{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 6px;
+   
+    
+}
+button{
+    background-color: #ffd966;
+    width: 56px;
+    height: 26px;
+   
+    box-shadow: 2px 2px black
+
+    
+}
