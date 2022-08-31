@@ -13,5 +13,5 @@ var s3 = pizza("hand tossed", "marinara", ["mozzarella", "feta"], ["mushrooms", 
 var s4 = pizza("fdeep dish", "btraditional", "mozzarella", ["mushrooms", "onions"]);
 var s5 = pizza("fdeep dish", "btraditional", "mozzarella", ["mushrooms", "olives"]);
 
-console.log(s3);
+console.log(s1);
 
