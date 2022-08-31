@@ -1,0 +1,119 @@
+
+.one{
+background-color: #000000;
+width: 60%;
+height: 47px;
+align-items: center;
+margin-left: 10%;
+}
+h1{
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    padding: 7px;
+}
+.sec{
+
+    margin-left: 31%;
+}
+.top{
+    width: 340px;
+    height: 140px;
+    border:solid 3px black;
+    margin-left: 353px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+button{
+    background-color: #ffd966;
+    width: 81px;
+    height: 26px;
+   
+    box-shadow: 2px 2px black
+
+}
+.up{
+
+    width: 340px;
+    height: 124px;
+    border:solid 3px black;
+    margin-left: 358px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.last{
+    width: 340px;
+    height: 140px;
+    border:solid 3px black;
+    margin-left: 358px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 107px;
+
+}
+ .side{
+    width: 340px;
+    height: 140px;
+    border:solid 3px black;
+    margin-left: 358px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    top: 111px;
+ }
+ .right{
+width: 138px;
+height: 245px;
+border:solid 3px black;
+position: relative;
+bottom: 545px;
+left: 139px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-content: flex-start;
+
+
+ }
+ .h3{
+
+    height: 66px;
+padding: 33px;
+    
+ }
+ .r5{
+
+margin-left: 21px;
+}
+ 
+ .d1{
+    display: inline;
+    text-align: start;
+    padding: 14px;
+ }
+ 
+ .d2{
+
+    display: inline;
+   padding: 10px;
+
+ }
+  .d3{
+    display: inline;
+    text-align: start;
+    padding: 14px;
+ }
+  
