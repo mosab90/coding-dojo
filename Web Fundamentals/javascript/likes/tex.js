@@ -1,7 +1,7 @@
-var count = 0;
+var x = 0;
+document.querySelector("b5")
 function incerment(){
-    count+=1;
-    document.querySelector('#in').innerHTML=count;
-    
-
+x=x+1
+document.getElementById("b5").innerHTML=x 
 }
+
