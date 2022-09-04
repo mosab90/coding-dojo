@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    height: 65px;
+    background-color: #9fc5f8;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+}
+
+
+ol{
+    display: inline;
+    margin: 20px;
+    font-size: large;
+}
+.b1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 22px;
+    
+}
+
+.T1{
+    position: relative;
+    left: 328px;
+}
+
+.T2{
+    position: relative;
+    left: 70px;
+}
+
+.T3{
+    position: relative;
+    right: 57px;
+
+
+}
+
+
+.all{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+   margin-top: -9px;
+ }
+
+.m1{
+    width: 172px;
+    height: 300px;
+    background-color:#eeeeee;
+    position: relative;
+  left: 120px;
+display: flex;
+  align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.m2{
+
+    width: 172px;
+    height: 300px;
+    background-color:#eeeeee;  
+    position: relative;
+    left: 40px;
+    display: flex;
+  align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+
+.m3{
+    width: 172px;
+    height: 300px;
+    background-color:#eeeeee;
+    position: relative;
+    right: 37px;
+    display: flex;
+  align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+
+.m4{
+    width: 172px;
+    height: 300px;
+    background-color:#eeeeee;
+    position: relative;
+    right: 120px;
+    display: flex;
+  align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+
+.p1{
+    
+    height: 80px;
+}
+.one{
+    margin-right: 60px;
+    color: red;
+}
+ .num1{
+display: flex;
+ }
+
+ .tow{
+
+    color: blue;
+ }
+ .bor{
+    width: 956px;
+    border-bottom: solid 2px black ;
+    margin-left: 203px;
+ }
+ .last{
+    width: 955px;
+    height: 95px;
+    background-color: #eeeeee;
+position: relative;
+left: 206px;
+display: flex;
+align-items: center;
+ }
+ .b5{
+    width: 80px;
+    height: 25px;
+    background-color:#9fc5f8;
+    border:3px solid;
+    border-color:black ;
+    color: white;
+    box-shadow: 3px 3px black ;  
+    position: relative;
+    right: 10px;
+}
+.o8{
+text-align: center;
+
+}
+ 
+.o7{
+    position: relative;
+    left: 19px;
+}
